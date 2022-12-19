@@ -30,7 +30,7 @@ Projeto finalizado. O controle foi feito como especificado, alguns testes unitá
 
 ## Relatório Final
 
-O projeto, implementado ao longo do período foi um desafio para o grupo. Tivemos que aprender várias tecnologias que nunca haviam usados antes, além de projetar um programa complexo, com muitas funcionalidades. Detalho a seguir, alguns detalhes das nossas implementações.
+O projeto, implementado ao longo do período, foi um desafio para o grupo. Tivemos que aprender várias tecnologias que nunca havíamos usados antes, além de projetar um programa complexo, com muitas funcionalidades. Detalho a seguir, alguns detalhes das nossas implementações.
 
 ### Armazenamento persistente
 
@@ -38,7 +38,7 @@ A parte de armazenamento do projeto foi projetada utilizando o banco de dados My
 
 ### View - Interface gráfica
 
-A interação com o usuário, ou seja, a parte de View do programa, foi feita por meio de uma interface gráfica, usando JavaFX e FXML para os elementos gráficos do programa em sí, e CSS para os estilos da GUI. Todos os recursos usados no View (arquivos .fxml, .css, arquivos de imagens e arquivos de fontes) foram organizados na pasta src/main//resources/com/ufv/project, sendo que há uma grande integração entre esses recursos. Os arquivos FXML também estão fortemente interligaods com os seus respectivos controles, que por sua vez estão no pacote src/main/java/com/ufv/project/controller/fx. Foi um grade desafio usar essa tecnologia para a realização da visão do projeto, já que nenhum dos integrantes do grupo tiveram expreriência prévia com essas ferramentas, o que também fez com que fosse uma ótima oportunidade de aprendizado.
+A interação com o usuário, ou seja, a parte de View do programa, foi feita por meio de uma interface gráfica, usando JavaFX e FXML para os elementos gráficos do programa e CSS para os estilos da GUI. Todos os recursos usados no View (arquivos .fxml, .css, arquivos de imagens e arquivos de fontes) foram organizados na pasta src/main//resources/com/ufv/project, sendo que há uma grande integração entre esses recursos. Os arquivos FXML também estão fortemente interligaods com os seus respectivos controles, que por sua vez estão no pacote src/main/java/com/ufv/project/controller/fx. Foi um grade desafio usar essa tecnologia para a realização da visão do projeto, já que nenhum dos integrantes do grupo tiveram expreriência prévia com essas ferramentas, o que também fez com que fosse uma ótima oportunidade de aprendizado.
 
 ### Controller-FXML
 
